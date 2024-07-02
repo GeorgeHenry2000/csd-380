@@ -1,2 +1,7 @@
-# csd-380
-devops
+# CSD 380 DevOps 
+
+## Contributors- 
+
+[Darren Osier]
+
+[George Higginbotham]
